@@ -6,7 +6,7 @@ Welcome to **Anvil**, the fastest way to bring your custom homebrew magic items 
 
 Before you can import your first magic item, D&D Beyond requires a "Homebrew Subclass" to act as a hidden container for any custom spells your items might cast. Anvil automates this setup for you.
 
-1. Install the Anvil extension from the Chrome Web Store.
+1. Download and extract the latest `Anvil_Release.zip` from the [Releases Page](https://github.com/haa-gg/anvil-releases/releases), then load it into Chrome via Developer Mode (`chrome://extensions` -> Load Unpacked).
 2. Click the **Anvil icon** in your browser's toolbar. 
 3. You will see a welcome screen prompting you to **Initialize Subclass**. Click the green button.
 4. Anvil will automatically open a new D&D Beyond tab and generate a placeholder Artificer subclass called "Artificer - Item Abilities".
