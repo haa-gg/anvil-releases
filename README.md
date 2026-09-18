@@ -2,7 +2,7 @@
 
 Welcome to **Anvil**, the fastest way to bring your custom homebrew magic items into D&D Beyond! Anvil acts as a bridge, automatically clicking through D&D Beyond's complex forms to build your items from plain text.
 
-## 🚀 One-Time Initialization
+## One-Time Initialization
 
 Before you can import your first magic item, D&D Beyond requires a "Homebrew Subclass" to act as a hidden container for any custom spells your items might cast. Anvil automates this setup for you.
 
@@ -16,7 +16,7 @@ Before you can import your first magic item, D&D Beyond requires a "Homebrew Sub
 5. Do not click anything while it works! Once you see the "Subclass successfully created!" popup in the bottom right corner, you can close that tab.
 6. You are now fully set up and ready to import items!
 
-## 🪄 How to Import a Magic Item
+## How to Import a Magic Item
 
 Importing an item takes just a few seconds.
 
@@ -34,7 +34,7 @@ Importing an item takes just a few seconds.
 
 
 
-## ⚙️ Advanced Features
+## Advanced Features
 
 - **Custom Spells:** If your magic item has a unique ability that costs charges (e.g., "As an action, you can expend 1 charge..."), Anvil will automatically build that ability as a custom spell and attach it to your item!
 - **Markdown Support:** You can use standard markdown in your text (like `**bold**` or `*italics*`) and Anvil will automatically convert it into rich text for your item's description.
