@@ -13,6 +13,8 @@ Before you can import your first magic item, D&D Beyond requires a "Homebrew Sub
 5. Do not click anything while it works! Once you see the "Subclass successfully created!" popup in the bottom right corner, you can close that tab.
 6. You are now fully set up and ready to import items!
 
+![Initialization Process](images/init-demo.gif)
+
 ## 🪄 How to Import a Magic Item
 
 Importing an item takes just a few seconds.
@@ -24,6 +26,8 @@ Importing an item takes just a few seconds.
 5. **Sit back and watch!** Anvil will take over your browser window, navigating through the various pages, adding modifiers, setting charges, and building custom spells.
 6. **Important:** Do not click on the page or switch tabs while Anvil is actively importing. Let it finish its work.
 7. Once the process is complete, a popup will appear saying "Import Complete!". You can now safely edit your item, add custom art, or save it to your collection!
+
+![Import Process](images/import-demo.gif)
 
 ## ⚙️ Advanced Features
 
